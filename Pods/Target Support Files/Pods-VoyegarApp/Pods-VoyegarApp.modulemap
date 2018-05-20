@@ -1,0 +1,6 @@
+framework module Pods_VoyegarApp {
+  umbrella header "Pods-VoyegarApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
